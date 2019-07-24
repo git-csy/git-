@@ -1,2 +1,2 @@
 var dd = aaa;
-var gg = ccc;
+var gg = 'asdadad';
